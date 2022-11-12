@@ -1,9 +1,3 @@
-"""
-Assignment 3-1: Edit Distance and Palindromes
-- Do NOT modify default imports and function names.
-- You may add other functions to the submission file
-"""
-
 import argparse
 
 def lcs(x: str, y: str) -> int:
